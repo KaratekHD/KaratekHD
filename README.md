@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/KaratekHD?style=social)![Mastodon Follow](https://img.shields.io/mastodon/follow/1142198?domain=https%3A%2F%2Fmastodon.social&style=social)
+![GitHub followers](https://img.shields.io/github/followers/KaratekHD?style=social) ![Mastodon Follow](https://img.shields.io/mastodon/follow/1142198?domain=https%3A%2F%2Fmastodon.social&style=social)
 
 <!--
 **KaratekHD/KaratekHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
