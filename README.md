@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/KaratekHD?style=social)  ![Mastodon Follow](https://img.shields.io/mastodon/follow/1142198?domain=https%3A%2F%2Fmastodon.social&style=social)  ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/KaratekHD?label=u%2FKaratekHD&style=social)
-
+![GitHub followers](https://img.shields.io/github/followers/KaratekHD?style=social)  ![Mastodon Follow](https://img.shields.io/mastodon/follow/1142198?domain=https%3A%2F%2Fmastodon.social&style=social)  ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/KaratekHD?label=u%2FKaratekHD&style=social) ![Twitter](https://img.shields.io/twitter/follow/KaratekHD?style=social)
 -------------------------
 ### About
 
