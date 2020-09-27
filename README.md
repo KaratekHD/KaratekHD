@@ -4,11 +4,11 @@
 -------------------------
 ### About
 
-**🌱Learning:** C | Open-Source :fire: <br>
-**🔭Languages:** Java, Bash <br>
+**🌱Learning:** Python | Open-Source :fire: <br>
+**🔭Languages:** Java, Bash, Python <br>
 **✨Hobbies:** Karate, Youth work at our church, Gaming, Tinkering with Linux <br>
 **💬Ask me about:** Anything you want, maybe I know the answer... :shrug: <br>
-**📫 How to reach me:** Write me an email to [jens@karatek.net](mailto:jens@karatek.net) or contact me at Telegram ([@Karatek_HD](https://t.me/Karatek_HD)) or any other social media.<br>
+**📫 How to reach me:** Write me an email to [kontakt@karatek.net](mailto:kontakt@karatek.net) or contact me at Telegram ([@Karatek_HD](https://t.me/Karatek_HD)) or any other social media.<br>
 
 -------------------------
 
