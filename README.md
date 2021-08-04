@@ -4,7 +4,9 @@
 -------------------------
 ### About
 
-**🌱Learning:** Python | Open-Source :fire: <br>
+I'm a student from Germany, born in 2005. I am an [openSUSE](https://opensuse.org) member, so check out my page there: https://en.opensuse.org/User:KaratekHD
+
+**🌱Learning:** Async Python<br>
 **🔭Languages:** Java, Bash, Python <br>
 **✨Hobbies:** Karate, Youth work at our church, Gaming, Tinkering with Linux <br>
 **💬Ask me about:** Anything you want, maybe I know the answer... :shrug: <br>
